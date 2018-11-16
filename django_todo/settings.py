@@ -25,7 +25,8 @@ SECRET_KEY = '6z7b2v+c&t#anyr2n)wvepv*()(#16as)fzne+awn^nmnaytna'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-vees/']
+ALLOWED_HOSTS = ['django-todo-veesq.c9users.io',
+'vero-simple-django.herokuapp.com']
 
 # Application definition
 
