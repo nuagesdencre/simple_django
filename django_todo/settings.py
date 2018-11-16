@@ -26,7 +26,7 @@ SECRET_KEY = '6z7b2v+c&t#anyr2n)wvepv*()(#16as)fzne+awn^nmnaytna'
 DEBUG = True
 
 ALLOWED_HOSTS = ['django-todo-veesq.c9users.io',
-'https://vero-simple-django.herokuapp.com/']
+'vero-simple-django.herokuapp.com/']
 
 # Application definition
 
